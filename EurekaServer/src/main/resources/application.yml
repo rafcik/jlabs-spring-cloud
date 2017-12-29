@@ -1,0 +1,16 @@
+---
+spring:
+  profiles: first
+server:
+  port: 8011
+spring:
+  application:
+    name: eureka
+---
+spring:
+  profiles: second
+server:
+  port: 8012
+spring:
+  application:
+    name: eureka
