@@ -1,0 +1,14 @@
+p a{
+  color: white;
+  text-decoration: none;
+}
+
+p {
+  padding: 10px;
+  width: 300px;
+}
+
+p:hover {
+  background-color: darkblue;
+  cursor: pointer;
+}
